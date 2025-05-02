@@ -154,3 +154,15 @@ Identifying design properties in a mockup is important because it ensures visual
 - Social media links
 - Copyright information
 
+
+## Screenshot
+<img src="https://github.com/Austine247-droid/airbnb-clone-project/blob/main/Homepage.png?raw=true"> <br>
+<img src="https://github.com/Austine247-droid/airbnb-clone-project/blob/main/Desktop%20Detail.png?raw=true"> <br>
+<img src="https://github.com/Austine247-droid/airbnb-clone-project/blob/main/Desktop%20Checkout.png?raw=true">
+
+
+## Contact Information
+- [LinkedIn Profile](https://www.linkedin.com/in/augustine-ugberaese-223692162/)
+- [GitHub Profile](https://github.com/Austine247droid/)
+
+
